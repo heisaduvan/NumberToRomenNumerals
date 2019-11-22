@@ -1,0 +1,7 @@
+C:\Users\isa.duvan\source\repos\NumberToRomenNumerals\NumberToRomenNumerals\bin\Debug\NumberToRomenNumerals.exe.config
+C:\Users\isa.duvan\source\repos\NumberToRomenNumerals\NumberToRomenNumerals\bin\Debug\NumberToRomenNumerals.exe
+C:\Users\isa.duvan\source\repos\NumberToRomenNumerals\NumberToRomenNumerals\bin\Debug\NumberToRomenNumerals.pdb
+C:\Users\isa.duvan\source\repos\NumberToRomenNumerals\NumberToRomenNumerals\obj\Debug\NumberToRomenNumerals.csprojAssemblyReference.cache
+C:\Users\isa.duvan\source\repos\NumberToRomenNumerals\NumberToRomenNumerals\obj\Debug\NumberToRomenNumerals.csproj.CoreCompileInputs.cache
+C:\Users\isa.duvan\source\repos\NumberToRomenNumerals\NumberToRomenNumerals\obj\Debug\NumberToRomenNumerals.exe
+C:\Users\isa.duvan\source\repos\NumberToRomenNumerals\NumberToRomenNumerals\obj\Debug\NumberToRomenNumerals.pdb
